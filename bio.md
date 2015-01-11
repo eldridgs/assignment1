@@ -11,3 +11,5 @@ Interests
 Lately, I've been reading too much on wikipedia about serial killers and freaking myself out.
 I do not, however, have an interest in becoming a serial killer.
 I'm interested in food and travel.  I'm hoping to visit Hawaii some day soon.
+
+Programming Background
