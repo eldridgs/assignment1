@@ -15,3 +15,5 @@ I'm interested in food and travel.  I'm hoping to visit Hawaii some day soon.
 Programming Background
 My background in programming is fairly limited.  I have several friends who work as programmers and said I had the right aptitude for it.
 After a couple of years of driving 45 miles to and from work, I decided to take the plunge and go back to school.
+I did pretty well in 165, but work really ramped up at the wrong time last quarter and I fell behind.  
+I'm hoping to be back to a programming natural this quarter. *crosses fingers for good luck*
