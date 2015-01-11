@@ -12,10 +12,13 @@ Lately, I've been reading too much on wikipedia about serial killers and freakin
 I do not, however, have an interest in becoming a serial killer.
 I'm interested in food and travel.  I'm hoping to visit Hawaii some day soon.
 
+<<<<<<< HEAD
 Education
 My first degree is in ecology/environmental biology from Appalachian State University in 2008.
 Appalachian State is in Boone, NC.  My brother is starting there next week. 
 
+=======
+>>>>>>> programming-bio
 Programming Background
 My background in programming is fairly limited.  I have several friends who work as programmers and said I had the right aptitude for it.
 After a couple of years of driving 45 miles to and from work, I decided to take the plunge and go back to school.
